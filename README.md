@@ -6,7 +6,7 @@
 Simular a construção de uma solução de BI para gestão de saúde suplementar, integrando informações assistenciais, financeiras, cadastrais e de satisfação. O foco é demonstrar **ETL, qualidade de dados, modelagem dimensional, DAX, SQL, indicadores estratégicos e comunicação gerencial**.
 
 ## Dashboard interativo
-O dashboard HTML será publicado.
+O dashboard HTML publicado.
 Endereço planejado: https://edurj07.github.io/Projeto-BI-Suplementar/
 
 ## Indicadores e análises
