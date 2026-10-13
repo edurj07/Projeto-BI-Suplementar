@@ -5,6 +5,17 @@
 ## Objetivo
 Simular a construção de uma solução de BI para gestão de saúde suplementar, integrando informações assistenciais, financeiras, cadastrais e de satisfação. O foco é demonstrar **ETL, qualidade de dados, modelagem dimensional, DAX, SQL, indicadores estratégicos e comunicação gerencial**.
 
+## Projeto em imagens
+
+### 1. Panorama financeiro — qual é a relação entre despesas e recebimentos?
+![Panorama financeiro com recebimentos, despesas e relação gerencial](assets/01-panorama-financeiro.svg)
+
+### 2. Concentração de custos — o que merece investigação?
+![Concentração de despesas em internações e hipóteses analíticas](assets/02-concentracao-despesas.svg)
+
+### 3. Qualidade dos dados — os indicadores são confiáveis?
+![Inconsistências da base bruta e ações de governança](assets/03-qualidade-dados.svg)
+
 ## Dashboard interativo
 O dashboard HTML publicado.
 Endereço planejado: https://edurj07.github.io/Projeto-BI-Suplementar/
