@@ -129,4 +129,4 @@ Os dados são sintéticos, os resultados são demonstrativos e não representam 
 ## Autor
 Eduardo Ramiro
 Linkedin: https://www.linkedin.com/in/eduardo-ramiro/
-(https://github.com/edurj07) — projeto de portfólio em análise de dados e Business Intelligence.
+projeto de portfólio em análise de dados e Business Intelligence.
