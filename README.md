@@ -9,6 +9,43 @@ Simular a construção de uma solução de BI para gestão de saúde suplementar
 O dashboard HTML publicado.
 Endereço planejado: https://edurj07.github.io/Projeto-BI-Suplementar/
 
+## Resultados e insights — dados fictícios (jan/2025–set/2026)
+
+| Indicador | Resultado |
+| --- | ---: |
+| Beneficiários cadastrados | **2.500** |
+| Prestadores cadastrados | **180** |
+| Guias de atendimento | **16.000** |
+| Pesquisas de satisfação | **1.800** |
+| Recebimentos de mensalidades | **R$ 18.828.537,38** |
+| Despesas assistenciais pagas | **R$ 10.188.289,11** |
+| Relação despesas / recebimentos | **54,1%** |
+| Participação de internações nas despesas | **51,5%** |
+| Nota média de satisfação (escala 1–5) | **3,98** |
+| Resolução no primeiro contato | **76,3%** |
+
+### Três descobertas para investigação
+
+**1. Internações concentram mais da metade das despesas.** Foram **R$ 5.245.450,73** em internações, ou **51,5%** do valor assistencial pago. Isso indica prioridade para aprofundar análises de frequência, perfil clínico, tempo de permanência e custos por prestador — sem pressupor desperdício.
+
+**2. Relação entre despesas assistenciais e recebimentos de 54,1%.** O indicador compara R$ 10,19 milhões pagos em atendimentos com R$ 18,83 milhões recebidos em mensalidades. **Não é sinistralidade regulatória, margem de lucro ou resultado operacional**: outras receitas, despesas e critérios contábeis não foram considerados.
+
+**3. Qualidade dos dados pode alterar indicadores.** A base bruta contém **25 linhas integralmente duplicadas**, **20 registros sem ID de prestador**, **12 valores pagos negativos** e **10 procedimentos em branco**. A análise propõe rastrear essas exceções antes de definir exclusões ou correções; valores negativos podem ser estornos.
+
+### Distribuição das despesas por procedimento
+
+| Procedimento | Valor pago | Participação |
+| --- | ---: | ---: |
+| Internação | R$ 5.245.450,73 | 51,5% |
+| Terapia | R$ 1.437.251,04 | 14,1% |
+| Exame de imagem | R$ 870.446,75 | 8,5% |
+| Consulta | R$ 787.497,02 | 7,7% |
+| Pronto atendimento | R$ 659.794,39 | 6,5% |
+| Exame laboratorial | R$ 637.619,90 | 6,3% |
+| Procedimento odontológico | R$ 550.229,28 | 5,4% |
+
+*Os valores são demonstrativos e não representam uma operadora real.*
+
 ## Indicadores e análises
 | Área | Indicadores e perspectivas |
 | --- | --- |
