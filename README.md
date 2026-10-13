@@ -127,6 +127,6 @@ Power BI, Power Query, DAX, SQL, Excel, HTML/CSS/JavaScript e GitHub Pages.
 Os dados são sintéticos, os resultados são demonstrativos e não representam indicadores reais. **O arquivo `.pbix` não será disponibilizado neste repositório.**
 
 ## Autor
-Eduardo Ramiro
-Linkedin: https://www.linkedin.com/in/eduardo-ramiro/
-projeto de portfólio em análise de dados e Business Intelligence.
+## Eduardo Ramiro
+## Linkedin: https://www.linkedin.com/in/eduardo-ramiro/
+## projeto de portfólio em análise de dados e Business Intelligence.
