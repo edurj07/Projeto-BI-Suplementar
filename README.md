@@ -86,11 +86,10 @@ A base bruta contém, intencionalmente, linhas repetidas, prestadores ausentes, 
 ## Tecnologias
 Power BI, Power Query, DAX, SQL, Excel, HTML/CSS/JavaScript e GitHub Pages.
 
-## Publicação web
-Para disponibilizar o dashboard: adicionar `index.html` e todos os recursos necessários à raiz do repositório; substituir referências visuais de **Copass** por **Copazz**; eliminar caminhos locais como `file:///`; ativar **Settings → Pages → Deploy from a branch → main → /(root)** e testar a URL em janela anônima.
-
 ## Escopo e limitações
 Os dados são sintéticos, os resultados são demonstrativos e não representam indicadores reais. **O arquivo `.pbix` não será disponibilizado neste repositório.**
 
 ## Autor
-[edurj07](https://github.com/edurj07) — projeto de portfólio em análise de dados e Business Intelligence.
+Eduardo Ramiro
+Linkedin: https://www.linkedin.com/in/eduardo-ramiro/
+(https://github.com/edurj07) — projeto de portfólio em análise de dados e Business Intelligence.
